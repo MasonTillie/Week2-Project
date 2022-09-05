@@ -1,0 +1,41 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "test_db",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "movie_theater1",
+            "connectString": "postgres://jlmtchzi:U-z85LnMmde1gJmAV5jbZp6_tiTQupLv@heffalump.db.elephantsql.com/jlmtchzi"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "join_demo",
+            "connectString": "postgres://xhcvdtlt:Hhz6igjoLY1SwiG59K4qzAVKuv4eDPBS@heffalump.db.elephantsql.com/xhcvdtlt"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "SQL_Project",
+            "connectString": "postgres://xtuvqton:NWHJCQHVU2ioHIYSla8D9KzgsP_dGr0r@heffalump.db.elephantsql.com/xtuvqton"
+        }
+    ]
+}
